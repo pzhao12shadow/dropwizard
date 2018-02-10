@@ -4,6 +4,23 @@
 Release Notes
 #############
 
+.. _rel-1.3.0:
+
+v1.3.0: Unreleased
+==================
+
+* Upgrade to Apache Commons Lang3 3.7
+* Upgrade to Apache Commons Text 1.2
+* Upgrade to Apache HttpClient 4.5.5
+* Upgrade to Apache Tomcat JDBC 9.0.4
+* Upgrade to AssertJ 3.9.0
+* Upgrade to Error Prone 2.2.0
+* Upgrade to Hibernate 5.2.13.Final
+* Upgrade to Jackson 2.9.4
+* Upgrade to JUnit 5.0.3
+* Upgrade to Liquibase 3.5.4
+* Upgrade to NullAway 0.3.2
+
 .. _rel-1.2.1:
 
 v1.2.1: Nov 22, 2017
