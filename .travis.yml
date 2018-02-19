@@ -50,7 +50,7 @@ matrix:
 script:
 - touch /tmp/NOW
 - echo GIBSTUDYSTART $(date)
-- ./mvnw test -B
+- ./mvnw test -B -P code-coverage
 - ./mvnw site -pl docs -B
 - echo GIBSTUDYEND $(date)
 - cd $TRAVIS_BUILD_DIR
